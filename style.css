@@ -1,0 +1,19 @@
+body{
+    background-color:  blanchedalmond;
+}
+
+#p1{
+    background: whitesmoke;
+    display: block;
+    border: 5px dashed orange ;
+    padding: 10px 30px;
+    text-align: center;
+}
+#p2{
+    text-align: center;
+    color: cadetblue;
+}
+#nagoya{
+    width: 50%;
+    height: fit-content;
+}
