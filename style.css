@@ -1,6 +1,6 @@
 @font-face {
     font-family: NotoSansJP;
-    src: url(NotoSansJP-VariableFont_wght.ttf);
+    src: url(fonts/NotoSansJP-VariableFont_wght.ttf);
 }
 body{
     background-size: cover;
@@ -40,7 +40,7 @@ h1{
     height:300px ;
 }
 a:link{
-    color: red;
+    color: aqua;
 }
 a:hover{
     color: green;
