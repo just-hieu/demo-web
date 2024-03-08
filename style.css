@@ -50,3 +50,7 @@ a:active{
     color: blueviolet;
 }
 
+a:visited{
+    color: gray;
+}
+
