@@ -53,7 +53,7 @@ a:active{
 a:visited{
     color: gray;
 }
-p::selection{
+p:selection{
     color: greenyellow;
     background-color: darkgray;
 }
