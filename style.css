@@ -38,6 +38,7 @@ h1{
 #korankei{
     width: 400px; 
     height:300px ;
+    #p{color: chartreuse; }
 }
 a:link{
     color: aquamarine;
