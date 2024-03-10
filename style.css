@@ -13,7 +13,7 @@ body{
 h1{
     font-family: NotoSansJP, Arial, Helvetica, sans-serif;
     border: 10px groove teal;
-    border-radius: 50px;
+    border-radius: 100px;
     text-shadow: 3px 3px 5px tomato, -3px -3px 5px lightblue; 
 }
 #p1{
